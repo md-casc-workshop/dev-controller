@@ -1,0 +1,4 @@
+variables:
+- team: md-casc-workshop
+- admin-user: mdobrindt-admin
+- manager-user: mdobrindt
